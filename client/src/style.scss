@@ -1,0 +1,479 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Manrope:700,400,800");
+* {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+.desktop-1 .about {
+  letter-spacing: 0px;
+  line-height: 26px;
+  min-height: 26px;
+  min-width: 47px;
+  white-space: nowrap;
+}
+.desktop-1 .address {
+  left: 1299px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  position: absolute;
+  top: 249px;
+  white-space: nowrap;
+  width: 68px;
+}
+.desktop-1 .adjustable-primary-large {
+  align-items: center;
+  background-color: var(--electric-violet);
+  border-radius: 8px;
+  display: flex;
+  height: 62px;
+  justify-content: flex-end;
+  left: 166px;
+  min-width: 196px;
+  padding: 0 39px;
+  position: absolute;
+  top: 580px;
+}
+.desktop-1 .background {
+  align-items: flex-start;
+  display: flex;
+  height: 857px;
+  left: 83px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.desktop-1 .bg {
+  background-color: var(--zircon);
+  height: 752px;
+  left: 152px;
+  position: absolute;
+  top: 37px;
+  width: 1440px;
+}
+.desktop-1 .content {
+  align-items: flex-start;
+  display: flex;
+  width: 111px;
+}
+.desktop-1 .copyright {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-bottom: -2px;
+  min-height: 24px;
+  min-width: 248px;
+  white-space: nowrap;
+}
+.desktop-1 .essential-icons-chevron-down {
+  align-items: flex-end;
+  display: flex;
+  height: 18px;
+  margin-left: 2px;
+  padding: 6px 3px;
+  width: 18px;
+}
+.desktop-1 .features {
+  letter-spacing: 0px;
+  line-height: 26px;
+  margin-left: 22px;
+  min-height: 26px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+.desktop-1 .feedback-person-details {
+  height: 24px;
+  width: 111px;
+}
+.desktop-1 .font-1 {
+  left: 1401px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 34px;
+}
+.desktop-1 .footer-mini-6 {
+  align-items: flex-start;
+  background-color: var(--cinder);
+  display: flex;
+  height: 178px;
+  left: 83px;
+  min-width: 1440px;
+  padding: 55px 84px;
+  position: absolute;
+  top: 846px;
+}
+.desktop-1 .frame {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  left: 231px;
+  overflow: hidden;
+  position: absolute;
+  top: 942px;
+  width: 246px;
+}
+.desktop-1 .group-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 388px;
+  left: 0px;
+  min-width: 1832px;
+  position: absolute;
+  top: 485px;
+}
+.desktop-1 .header-7 {
+  align-items: center;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 821px;
+  padding: 10px 4px;
+  position: absolute;
+  top: 10px;
+}
+.desktop-1 .header-menu-dropdown {
+  align-items: flex-end;
+  display: flex;
+  height: 20px;
+  margin-left: 30px;
+  width: 57px;
+}
+.desktop-1 .help {
+  letter-spacing: 0px;
+  line-height: 26px;
+  margin-left: 22px;
+  min-height: 26px;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.desktop-1 .label-i541147 {
+  letter-spacing: 0px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
+.desktop-1 .label-i551357 {
+  letter-spacing: 0px;
+  line-height: 20px;
+  min-height: 20px;
+  min-width: 37px;
+  white-space: nowrap;
+}
+.desktop-1 .label-i551365 {
+  letter-spacing: 0px;
+  line-height: 20px;
+  margin-left: 30px;
+  min-height: 20px;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.desktop-1 .label-i551367 {
+  letter-spacing: 0px;
+  line-height: 20px;
+  min-height: 20px;
+  min-width: 44px;
+  white-space: nowrap;
+}
+.desktop-1 .label-i551646 {
+  letter-spacing: 0px;
+  line-height: 20px;
+  margin-left: 30px;
+  min-height: 20px;
+  min-width: 62px;
+  white-space: nowrap;
+}
+.desktop-1 .left-band-1 {
+  height: 118px;
+  left: 152px;
+  position: absolute;
+  top: 0px;
+  width: 420px;
+}
+.desktop-1 .left-band-2 {
+  height: 118px;
+  left: 0px;
+  position: absolute;
+  top: 83px;
+  width: 420px;
+}
+.desktop-1 .license {
+  letter-spacing: 0px;
+  line-height: 26px;
+  margin-left: 22px;
+  min-height: 26px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+.desktop-1 .line-1 {
+  height: 1px;
+  margin-top: 33px;
+  width: 589px;
+}
+.desktop-1 .links-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 231px;
+  position: absolute;
+  top: 894px;
+  width: 562px;
+}
+.desktop-1 .menu-item-default {
+  height: 20px;
+  margin-left: 32px;
+  width: 63px;
+}
+.desktop-1 .namedentityextraction-1 {
+  height: 301px;
+  margin-top: 33px;
+  object-fit: cover;
+  width: 589px;
+}
+.desktop-1 .nav-items {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 381px;
+}
+.desktop-1 .overlap-group {
+  height: 1024px;
+  margin-left: -83px;
+  position: relative;
+  width: 1523px;
+}
+.desktop-1 .overlap-group1 {
+  height: 873px;
+  margin-left: -152px;
+  margin-top: -37px;
+  position: relative;
+  width: 1832px;
+}
+.desktop-1 .overlap-group2 {
+  height: 211px;
+  margin-left: 408px;
+  margin-top: -0.24px;
+  position: relative;
+  width: 852px;
+}
+.desktop-1 .overlap-group3 {
+  align-self: flex-end;
+  height: 201px;
+  margin-bottom: 0.25px;
+  position: relative;
+  width: 572px;
+}
+.desktop-1 .overlap-group4 {
+  height: 40px;
+  margin-left: 90px;
+  position: relative;
+  width: 381px;
+}
+.desktop-1 .preview-card {
+  align-items: flex-start;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0px 10px 20px rgba(41, 41, 42, 0.15);
+  display: flex;
+  flex-direction: column;
+  height: 473px;
+  left: 803px;
+  overflow: hidden;
+  padding: 32px;
+  position: absolute;
+  top: 202px;
+  width: 657px;
+}
+.desktop-1 .privacy-policy {
+  letter-spacing: 0px;
+  line-height: 26px;
+  margin-left: 22px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+.desktop-1 .purple-circle {
+  height: 406px;
+  left: 1239px;
+  position: absolute;
+  top: 0px;
+  width: 406px;
+}
+.desktop-1 .right-band-1 {
+  height: 117px;
+  left: 160px;
+  position: absolute;
+  top: 0px;
+  width: 420px;
+}
+.desktop-1 .right-band-2 {
+  height: 141px;
+  left: 0px;
+  position: absolute;
+  top: 60px;
+  width: 612px;
+}
+.desktop-1 .right-band-3 {
+  height: 118px;
+  left: 432px;
+  position: absolute;
+  top: 93px;
+  width: 420px;
+}
+.desktop-1 .right-nav {
+  height: 40px;
+  left: 43px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+.desktop-1 .span {
+  color: rgba(0, 0, 0, 0.44);
+  font-family: "Manrope", Helvetica;
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 28px;
+}
+.desktop-1 .span1 {
+  color: rgba(0, 0, 0, 1);
+  font-family: "Manrope", Helvetica;
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 28px;
+}
+.desktop-1 .text-1 {
+  left: 162px;
+  letter-spacing: 0px;
+  line-height: 98px;
+  position: absolute;
+  top: 127px;
+  width: 732px;
+}
+.desktop-1 .text-2 {
+  letter-spacing: 0px;
+  line-height: 30px;
+  margin-bottom: 4px;
+  margin-left: 22px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 114px;
+}
+.desktop-1 .text-3 {
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  position: absolute;
+  top: 369px;
+  width: 517px;
+}
+.desktop-1 .turquoise-circle {
+  height: 168px;
+  left: 981px;
+  position: absolute;
+  top: 501px;
+  width: 168px;
+}
+.desktop-1 .untitled-design-8-1 {
+  align-self: flex-end;
+  height: 44px;
+  object-fit: cover;
+  width: 45px;
+}
+.desktop-1 .untitled-design-8-1-1 {
+  height: 44px;
+  left: 1373px;
+  object-fit: cover;
+  position: absolute;
+  top: 240px;
+  width: 45px;
+}
+.desktop-1 .untitled-design-9-1 {
+  height: 40px;
+  object-fit: cover;
+  width: 45px;
+}
+.desktop-1 .vector {
+  height: 6px;
+  width: 12px;
+}
+.manrope-bold-black-18px {
+  color: var(--black-2);
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.manrope-bold-black-20px {
+  color: black;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.manrope-bold-eerie-black-14px {
+  color: var(--eerie-black);
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.manrope-bold-white-20px {
+  color: white;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.manrope-extra-bold-black-18px {
+  color: var(--black);
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+}
+.manrope-extra-bold-eerie-black-72px {
+  color: var(--eerie-black);
+  font-family: "Manrope", Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 800;
+}
+.manrope-extra-bold-white-28px {
+  color: transparent;
+  font-family: "Manrope", Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+}
+.manrope-normal-alto-14px {
+  color: var(--alto);
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.manrope-normal-white-16px {
+  color: white;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --alto: rgba(217, 219, 225, 1);
+  --black: rgba(0, 0, 0, 0.49);
+  --black-2: rgba(0, 0, 0, 0.44);
+  --cinder: rgba(11, 13, 23, 1);
+  --eerie-black: rgba(24, 25, 31, 1);
+  --electric-violet: rgba(140, 48, 245, 1);
+  --zircon: rgba(242, 247, 255, 0.7);
+}

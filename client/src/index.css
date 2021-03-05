@@ -1,79 +1,13 @@
-@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Manrope:400,700,800");
-* {
-  box-sizing: border-box;
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-.manrope-bold-black-18px {
-  color: var(--black-3);
-  font-family: "Manrope", Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.manrope-bold-black-20px {
-  color: var(--black);
-  font-family: "Manrope", Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 700;
-}
-.manrope-bold-eerie-black-14px {
-  color: var(--eerie-black);
-  font-family: "Manrope", Helvetica;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 700;
-}
-.manrope-bold-white-20px {
-  color: var(--white);
-  font-family: "Manrope", Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 700;
-}
-.manrope-extra-bold-black-18px {
-  color: var(--black-2);
-  font-family: "Manrope", Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 800;
-}
-.manrope-extra-bold-eerie-black-72px {
-  color: var(--eerie-black);
-  font-family: "Manrope", Helvetica;
-  font-size: 72px;
-  font-style: normal;
-  font-weight: 800;
-}
-.manrope-extra-bold-white-28px {
-  color: transparent;
-  font-family: "Manrope", Helvetica;
-  font-size: 28px;
-  font-style: normal;
-  font-weight: 800;
-}
-.manrope-normal-alto-14px {
-  color: var(--alto);
-  font-family: "Manrope", Helvetica;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-}
-.manrope-normal-white-16px {
-  color: var(--white);
-  font-family: "Manrope", Helvetica;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-}
-:root {
-  --alto: rgba(217, 219, 225, 1);
-  --black: rgba(0, 0, 0, 1);
-  --black-2: rgba(0, 0, 0, 0.49);
-  --black-3: rgba(0, 0, 0, 0.44);
-  --cinder: rgba(11, 13, 23, 1);
-  --eerie-black: rgba(24, 25, 31, 1);
-  --electric-violet: rgba(140, 48, 245, 1);
-  --white: rgba(255, 255, 255, 1);
-  --zircon: rgba(242, 247, 255, 0.7);
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
