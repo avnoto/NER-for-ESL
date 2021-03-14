@@ -1,0 +1,21 @@
+.adjustable-primary-large {
+  align-items: center;
+  background-color: var(--electric-violet);
+  border-radius: 8px;
+  display: flex;
+  height: 62px;
+  justify-content: flex-end;
+  left: 166px;
+  min-width: 196px;
+  padding: 0 39.0px;
+  position: absolute;
+  top: 580px;
+}
+.label-i541147 {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
