@@ -1,0 +1,47 @@
+.about {
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  min-height: 26px;
+  min-width: 47px;
+  white-space: nowrap;
+}
+.features {
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-left: 22px;
+  min-height: 26px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+.help {
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-left: 22px;
+  min-height: 26px;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.license {
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-left: 22px;
+  min-height: 26px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+.links-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 231px;
+  position: absolute;
+  top: 894px;
+  width: 562px;
+}
+.privacy-policy {
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-left: 22px;
+  min-height: 26px;
+  white-space: nowrap;
+}

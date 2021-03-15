@@ -1,0 +1,18 @@
+.copyright {
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-bottom: -2px;
+  min-height: 24px;
+  min-width: 248px;
+  white-space: nowrap;
+}
+.frame {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  left: 231px;
+  overflow: hidden;
+  position: absolute;
+  top: 942px;
+  width: 246px;
+}

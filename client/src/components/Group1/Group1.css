@@ -1,0 +1,58 @@
+.group-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 388px;
+  left: 0px;
+  min-width: 1832px;
+  position: absolute;
+  top: 485px;
+}
+.left-band-1 {
+  height: 118px;
+  left: 152px;
+  position: absolute;
+  top: 0px;
+  width: 420px;
+}
+.left-band-2 {
+  height: 118px;
+  left: 0px;
+  position: absolute;
+  top: 83px;
+  width: 420px;
+}
+.overlap-group2 {
+  align-self: flex-end;
+  height: 201px;
+  margin-bottom: 0.25px;
+  position: relative;
+  width: 572px;
+}
+.overlap-group3 {
+  height: 211px;
+  margin-left: 408px;
+  margin-top: -0.24px;
+  position: relative;
+  width: 852px;
+}
+.right-band-1 {
+  height: 117px;
+  left: 160px;
+  position: absolute;
+  top: 0px;
+  width: 420px;
+}
+.right-band-2 {
+  height: 141px;
+  left: 0px;
+  position: absolute;
+  top: 60px;
+  width: 612px;
+}
+.right-band-3 {
+  height: 118px;
+  left: 432px;
+  position: absolute;
+  top: 93px;
+  width: 420px;
+}

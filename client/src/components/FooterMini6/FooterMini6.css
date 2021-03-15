@@ -1,0 +1,16 @@
+.footer-mini-6 {
+  align-items: flex-start;
+  background-color: var(--cinder);
+  display: flex;
+  height: 178px;
+  left: 83px;
+  min-width: 1440px;
+  padding: 55px 84px;
+  position: absolute;
+  top: 846px;
+}
+.untitled-design-9-1 {
+  height: 40px;
+  object-fit: cover;
+  width: 45px;
+}
